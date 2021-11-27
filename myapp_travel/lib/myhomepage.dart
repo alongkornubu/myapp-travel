@@ -29,6 +29,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
 
         title: const Text('Welcome to Travel'),
+       
       ),
       body: Center(
 
