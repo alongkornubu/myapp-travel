@@ -26,6 +26,10 @@ class ButtonSection extends StatelessWidget {
               Icon(Icons.share, color: Colors.blue),
               Text('SHARE', style: blueText),
             ]),
+            Column(children:[
+              Icon(Icons.favorite, color: Colors.pink),
+              Text('FAVOURITE', style: blueText),
+            ]),
             
           ],
         ),);
